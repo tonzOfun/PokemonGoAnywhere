@@ -1,0 +1,10 @@
+Package: com.WilliamCobb.pokemongoanywhere
+Name: PokemonGoAnywhere
+Depends: mobilesubstrate
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Tap to walk around in Pokemon Go!
+Maintainer: Will Cobb
+Author: Will Cobb
+Section: Tweaks
+Depiction: http://www.williamlcobb.com/repo/depictions/index.html?p=com.williamcobb.PokemonGoAnywhere
